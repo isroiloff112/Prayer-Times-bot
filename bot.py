@@ -14,10 +14,10 @@ REGIONS = [
     "Samarqand", "Sirdaryo", "Surxondaryo", "Xorazm"
 ]
 
-# Store user data (in production, use database)
+
 user_data = {}
 
-# Daily Hadith and Islamic content
+
 DAILY_HADITH = [
     {
         "text": "Rasululloh sollallohu alayhi vasallam dedilar: «Kim tongda ikki rakat bomdod namozini o'qisa, u dunyodan va undagi barcha narsalardan afzaldir.»",
